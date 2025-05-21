@@ -35,7 +35,7 @@ These algorithms are commonly used in navigation systems, AI pathfinding, and op
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/search-algorithms-python.git
+git clone https://github.com/isaactony/search-algorithms-python-implementation.git
 cd search-algorithms-python
 
 python dijkstra.py
