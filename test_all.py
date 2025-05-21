@@ -16,7 +16,7 @@ heuristic = {
     'D': 0
 }
 
-print("=== Running Test ===")
+print(" Running Test")
 print("Dijkstra:", dijkstra(graph, 'A'))
 print("A*:", a_star(graph, 'A', 'D', heuristic))
 print("Simulated Annealing:", simulated_annealing(graph, 'A', 'D'))
