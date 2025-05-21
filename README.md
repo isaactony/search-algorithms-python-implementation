@@ -1,6 +1,6 @@
 # Search Algorithms in Python
 
-This repository contains Python implementations of three widely-used search algorithms:
+This repository contains my Python implementations of three widely-used search algorithms:
 
 - **Dijkstra’s Algorithm** (Shortest Path)
 - **A\*** (A-Star) **Search Algorithm**
