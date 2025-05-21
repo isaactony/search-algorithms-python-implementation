@@ -8,7 +8,7 @@ This repository contains Python implementations of three widely-used search algo
 
 Each algorithm is applied on a graph represented as a dictionary and can be run independently or tested together using the provided `test_all.py` script.
 
----
+
 
 
 ## Overview
@@ -22,14 +22,14 @@ This project demonstrates three different approaches to finding the shortest pat
 These algorithms are commonly used in navigation systems, AI pathfinding, and optimization tasks.
 
 
----
+
 
 ## Requirements
 
 - Python 3.6 or higher
 - Standard library only (no external packages needed)
 
----
+
 
 ## How to Run
 
