@@ -10,7 +10,6 @@ Each algorithm is applied on a graph represented as a dictionary and can be run 
 
 
 
-
 ## Overview
 
 This project demonstrates three different approaches to finding the shortest path in a graph:
